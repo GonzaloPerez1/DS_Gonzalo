@@ -1,0 +1,22 @@
+Escoger un proyecto de los avanzados
+https://www.dataquest.io/blog/python-projects-for-beginners/
+
+Temas de automatización
+https://automatetheboringstuff.com/
+
+Puntos mas avanzados: lambdas, OOP, file_IO
+https://github.com/mhkmcp/Python-Bootcamp-from-Basic-to-Advanced
+
+Codewars
+https://www.codewars.com/
+
+Data Analysis
+Numpy: https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch04.html
+EDA: https://learning.oreilly.com/library/view/hands-on-exploratory-data/9781789537253/0957090f-fa4d-4145-95dd-6d3782e5c04d.xhtml
+Playlist EDA: https://learning.oreilly.com/playlists/b834fdd2-b639-49ef-8054-e5e1d0f65f1a/
+
+Documentacion de mates para ML
+https://learning.oreilly.com/playlists/03576629-4091-4c66-b7f1-5eb72bdabfe9/
+
+Libro Apache Airflow
+https://learning.oreilly.com/library/view/data-pipelines-with/9781617296901/
