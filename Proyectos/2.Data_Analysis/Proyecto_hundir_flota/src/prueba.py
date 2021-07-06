@@ -1,6 +1,10 @@
-import pandas as pd
-import numpy as np
+for i in range(10):
 
-letras = np.random.choice(list('abcd'))
-print(letras)
-
+    if i == 0:
+        continue
+    if i == 1:
+        pass
+    if i == 8:
+        break
+    print(i)
+    continue
