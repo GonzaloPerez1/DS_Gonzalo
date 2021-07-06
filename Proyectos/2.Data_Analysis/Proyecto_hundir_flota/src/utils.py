@@ -1,3 +1,4 @@
+import time
 import numpy as np
 
 from constants import *
@@ -44,8 +45,9 @@ def disparo_bot():
             print('Tablero jugador 1: \n', tablero_juego)
             continua_ejec_bot = False
         elif (tablero_juego[disparo_fila_bot, disparo_colum_bot] == 'O'):
-            tablero_juego[disparo_fila_bot:, disparo_colum_bot] = 'X'
+            tablero_juego[disparo_fila_bot, disparo_colum_bot] = 'X'
             print('Tablero jugador 1: \n', tablero_juego)
+            time.sleep(0.5)
             continue
         elif (tablero_juego[disparo_fila_bot, disparo_colum_bot] == '#'):
             print('Tablero jugador 1: \n', tablero_juego)
@@ -108,7 +110,6 @@ def comprobacion():
             return False
 
 def nueva_partida():
-    condicion = True
     juego_nuevo = input("¿Te gustaría volver a jugar? Introduce PLAYAGAIN para jugar de nuevo o cualquier tecla para salir")
     if juego_nuevo == 'PLAYAGAIN':
         return iniciar_juego()
@@ -116,7 +117,7 @@ def nueva_partida():
         print("Vámonos al beercamp con Tito") #EASTEREGG
     else:
         print("Gracias por jugar al Hundir la Flota de Gonzalo y Rafa!")
-        condicion = False
+        return False
 
 def iniciar_juego():
     numero_barcos = 0
@@ -139,3 +140,5 @@ def iniciar_juego():
     comprobacion()
     if comprobacion == False:
         nueva_partida()
+        if nueva_partida == False:
+            exit
