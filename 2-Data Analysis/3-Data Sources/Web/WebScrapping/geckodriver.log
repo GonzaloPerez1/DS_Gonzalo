@@ -1,0 +1,685 @@
+1626077213120	geckodriver	INFO	Listening on 127.0.0.1:48617
+1626077214125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLtyVD4"
+1626077214714	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLtyVD4/search.json.mozlz4", (void 0)))
+1626077216070	Marionette	INFO	Listening on port 39827
+1626077216150	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.filmaffinity.com/js/theaters-showtimes.1580721529.js, line 1: ReferenceError: $ is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error writing request: getGrids"
+JavaScript error: https://www.filmaffinity.com/js/theaters-showtimes.1580721529.js, line 1: ReferenceError: $ is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.filmaffinity.com/js/theaters-showtimes.1580721529.js, line 1: ReferenceError: $ is not defined
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle28 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error writing request: getGrids"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.filmaffinity.com/js/theaters-showtimes.1580721529.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.filmaffinity.com/js/theaters-showtimes.1580721529.js, line 1: ReferenceError: $ is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://video.seenthis.se/v2/player/75/player.js, line 1: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/61548267/20210224065732073/index.html?e=69&leftOffset=0&topOffset=0&c=6Y0aL9fcOc&t=1&renderingType=2 line 17 > injectedScript, line 6: ReferenceError: myFT is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+1626086196121	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://www.filmaffinity.com/js/theaters-showtimes.1580721529.js, line 1: ReferenceError: $ is not defined
+console.error: "Error writing request: getGrids"
+1626086205913	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626086452650	Marionette	INFO	Stopped listening on port 39827
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626086460374	geckodriver	INFO	Listening on 127.0.0.1:52135
+1626086461380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekth69Q"
+1626086461881	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekth69Q/search.json.mozlz4", (void 0)))
+1626086463098	Marionette	INFO	Listening on port 44803
+1626086463197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.filmaffinity.com/js/theaters-showtimes.1580721529.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.filmaffinity.com/js/theaters-showtimes.1580721529.js, line 1: ReferenceError: $ is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.filmaffinity.com/js/theaters-showtimes.1580721529.js, line 1: ReferenceError: $ is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error writing request: getGrids"
+JavaScript error: https://www.filmaffinity.com/js/theaters-showtimes.1580721529.js, line 1: ReferenceError: $ is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: https://www.filmaffinity.com/es/main.html, line 626: TypeError: element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.filmaffinity.com/js/theaters-showtimes.1580721529.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.filmaffinity.com/js/theaters-showtimes.1580721529.js, line 1: ReferenceError: $ is not defined
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: https://www.filmaffinity.com/js/theaters-showtimes.1580721529.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.filmaffinity.com/js/theaters-showtimes.1580721529.js, line 1: ReferenceError: $ is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://s0.2mdn.net/8272368/1625562988057/hbo_manifest_es_video_980x250/script.js, line 296: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle32 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error writing request: getGrids"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.filmaffinity.com/js/theaters-showtimes.1580721529.js, line 1: ReferenceError: $ is not defined
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://s0.2mdn.net/8272368/1625562988057/hbo_manifest_es_video_980x250/script.js, line 296: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://www.filmaffinity.com/es/rdcat.php?id=upc_th_es, line 626: TypeError: element is null
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.filmaffinity.com/es/rdcat.php?id=upc_th_es, line 626: TypeError: element is null
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.filmaffinity.com/es/rdcat.php?id=upc_th_es, line 626: TypeError: element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.filmaffinity.com/js/theaters-showtimes.1580721529.js, line 1: ReferenceError: $ is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.filmaffinity.com/es/rdcat.php?id=upc_th_es, line 626: TypeError: element is null
+JavaScript error: https://www.filmaffinity.com/es/rdcat.php?id=upc_th_es, line 626: TypeError: element is null
+console.error: "Error writing request: getGrids"
+JavaScript error: https://www.filmaffinity.com/es/rdcat.php?id=upc_th_es, line 626: TypeError: element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.filmaffinity.com/es/rdcat.php?id=upc_th_es, line 626: TypeError: element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626089336142	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://www.filmaffinity.com/js/theaters-showtimes.1580721529.js, line 1: ReferenceError: $ is not defined
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle32 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error writing request: getGrids"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://s0.2mdn.net/8272368/1625562988057/hbo_manifest_es_video_980x250/script.js, line 296: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://www.filmaffinity.com/es/rdcat.php?id=upc_th_es, line 626: TypeError: element is null
+JavaScript error: https://www.filmaffinity.com/es/rdcat.php?id=upc_th_es, line 626: TypeError: element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error writing request: getGrids"
+JavaScript error: https://www.filmaffinity.com/es/film642993.html, line 626: TypeError: element is null
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.filmaffinity.com/es/rdcat.php?id=upc_th_es, line 626: TypeError: element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.filmaffinity.com/es/rdcat.php?id=upc_th_es, line 626: TypeError: element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.filmaffinity.com/es/rdcat.php?id=upc_th_es, line 626: TypeError: element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.filmaffinity.com/es/rdcat.php?id=upc_th_es, line 626: TypeError: element is null
+JavaScript error: https://www.filmaffinity.com/es/rdcat.php?id=upc_th_es, line 626: TypeError: element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error writing request: getGrids"
+JavaScript error: https://www.filmaffinity.com/es/film642993.html, line 626: TypeError: element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.filmaffinity.com/es/film642993.html, line 626: TypeError: element is null
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error writing request: getGrids"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+1626096908586	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1626096909073	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+1626096910256	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle32 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+JavaScript error: https://www.filmaffinity.com/es/film922806.html, line 626: TypeError: element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+1626099083629	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+1626099112950	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle32 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+JavaScript error: https://www.filmaffinity.com/es/film922806.html, line 626: TypeError: element is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+1626100020337	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.error: "Error writing request: getGrids"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle32 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error writing request: getGrids"
+1626100136903	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+1626100141816	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: "Error writing request: getGrids"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle32 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle32 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error writing request: getGrids"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error writing request: getGrids"
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.contentType]
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+1626103942262	Marionette	INFO	Stopped listening on port 44803
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
