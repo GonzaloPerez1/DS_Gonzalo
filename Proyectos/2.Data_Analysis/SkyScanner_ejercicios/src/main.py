@@ -9,8 +9,8 @@ url = "https://skyscanner-skyscanner-flight-search-v1.p.rapidapi.com/apiservices
 querystring = {"inboundpartialdate":"2021-08-11"}
 
 headers = {
-    'x-rapidapi-key': "6299a9f547mshcc043ac028bfd1cp1cf5a0jsnc250a5dbcae0",
-    'x-rapidapi-host': "skyscanner-skyscanner-flight-search-v1.p.rapidapi.com"
+    'x-rapidapi-key': "",
+    'x-rapidapi-host': ""
     }
 
 response = requests.request("GET", url, headers=headers, params=querystring)
