@@ -683,3 +683,113 @@ console.error: "Error writing request: getGrids"
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1626182928384	geckodriver	INFO	Listening on 127.0.0.1:33949
+1626182929396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW65EGQ"
+1626182929980	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW65EGQ/search.json.mozlz4", (void 0)))
+1626182931298	Marionette	INFO	Listening on port 35385
+1626182931319	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.filmaffinity.com/js/theaters-showtimes.1580721529.js, line 1: ReferenceError: $ is not defined
+1626183001287	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+[Child 18011, MediaDecoderStateMachine #1] WARNING: Decoder=7fa505c0bc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-euTJhZ/firefox-89.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 18011, MediaDecoderStateMachine #1] WARNING: Decoder=7fa505c0bc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-euTJhZ/firefox-89.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3490
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Error writing request: getGrids"
+console.error: "Tried to send a 'target-destroyed-form' event on an already destroyed actor 'watcher'"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626185589072	Marionette	INFO	Stopped listening on port 35385
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626185786922	geckodriver	INFO	Listening on 127.0.0.1:46961
+1626185787925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemMROaD"
+1626185788403	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemMROaD/search.json.mozlz4", (void 0)))
+1626185789586	Marionette	INFO	Listening on port 40641
+1626185789646	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626185793577	Marionette	INFO	Stopped listening on port 40641
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626185813406	geckodriver	INFO	Listening on 127.0.0.1:49947
+1626185813408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFNRohV"
+1626185813907	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFNRohV/search.json.mozlz4", (void 0)))
+1626185815085	Marionette	INFO	Listening on port 43147
+1626185815123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626185817482	Marionette	INFO	Stopped listening on port 43147
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626186016860	geckodriver	INFO	Listening on 127.0.0.1:42297
+1626186017863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9R7wZA"
+1626186018359	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9R7wZA/search.json.mozlz4", (void 0)))
+1626186019510	Marionette	INFO	Listening on port 41571
+1626186019579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626186021392	Marionette	INFO	Stopped listening on port 41571
+1626186030618	geckodriver	INFO	Listening on 127.0.0.1:38977
+1626186031622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemb73cj"
+1626186032123	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemb73cj/search.json.mozlz4", (void 0)))
+1626186033293	Marionette	INFO	Listening on port 45811
+1626186033346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626186037863	Marionette	INFO	Stopped listening on port 45811
+1626186049146	geckodriver	INFO	Listening on 127.0.0.1:37059
+1626186049147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaTZpxt"
+1626186049626	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaTZpxt/search.json.mozlz4", (void 0)))
+1626186050810	Marionette	INFO	Listening on port 34845
+1626186050861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626186053291	Marionette	INFO	Stopped listening on port 34845
+1626186070888	geckodriver	INFO	Listening on 127.0.0.1:50233
+1626186071892	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejUmGNh"
+1626186072378	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejUmGNh/search.json.mozlz4", (void 0)))
+1626186073633	Marionette	INFO	Listening on port 37779
+1626186073709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626186084530	Marionette	INFO	Stopped listening on port 37779
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626186140944	geckodriver	INFO	Listening on 127.0.0.1:43255
+1626186140945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenYsQAa"
+1626186141436	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenYsQAa/search.json.mozlz4", (void 0)))
+1626186142627	Marionette	INFO	Listening on port 39527
+1626186142662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626186394552	Marionette	INFO	Stopped listening on port 39527
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
