@@ -39,3 +39,6 @@ Las columnas son:
    30. **Diet low in nuts and seeds**: Dieta baja en frutos secos y semillas.
 
 Excepto en algunas columnas, el dataset carece de nulos
+
+# Los datos han cambiado
+## Página de interés: https://www.mscbs.gob.es/estadEstudios/estadisticas/inforRecopilaciones/docs/presupuestosIniciales.pdf
