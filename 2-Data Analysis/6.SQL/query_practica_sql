@@ -1,0 +1,81 @@
+--Creación tabla clientes
+CREATE TABLE CLIENTES (
+DNI VARCHAR(9) PRIMARY KEY,
+NOMBRE varchar(200) not null,
+DIRECCION varchar(200)
+);
+
+--Creación tabla facturas
+CREATE TABLE FACTURAS (
+ID_FACTURAS INTEGER PRIMARY KEY AUTOINCREMENT,
+DESCRIPCION varchar(200) not null,
+IMPORTE decimal (8,2),
+FECHA DATETIME,
+DNI_CLIENTE INTEGER REFERENCES CLIENTES(DNI)
+);
+
+--Creación tabla productos
+CREATE TABLE PRODUCTOS (
+ID_PRODUCTOS INTEGER PRIMARY KEY AUTOINCREMENT,
+DESCRIPCION varchar(200) not null,
+IMPORTE decimal (8,2)
+);
+
+--Creación tabla facturas_productos
+CREATE TABLE FACTURAS_PRODUCTOS (
+ID_FACTURAS INTEGER REFERENCES FACTURAS(ID_FACTURAS),
+ID_PRODUCTOS INTEGER REFERENCES PRODUCTOS(ID_PRODUCTOS)
+);
+
+--Introducimos valores en las tablas
+INSERT INTO CLIENTES (DNI, NOMBRE, DIRECCION) values ('00000000T', 'Florentino Perez', 'Santiago Bernabeu, Palco');
+INSERT INTO CLIENTES (DNI, NOMBRE, DIRECCION) values ('00000001R', 'Sergio Ramos', 'Parque de los Principes, Paris');
+INSERT INTO CLIENTES (DNI, NOMBRE, DIRECCION) values ('00000002W', 'Iker Casillas', 'Su Casa, Fuenlabrada');
+
+
+INSERT INTO FACTURAS (DESCRIPCION, IMPORTE, FECHA, DNI_CLIENTE) values 
+                     ('Factura: Libro el maravilloso arte del insulto', 100.00, date('now'), '00000000T');
+INSERT INTO FACTURAS (DESCRIPCION, IMPORTE, FECHA, DNI_CLIENTE) values 
+                     ('Factura: Diccionario español/frances', 50.00, date('now'), '00000001R');
+INSERT INTO FACTURAS (DESCRIPCION, IMPORTE, FECHA, DNI_CLIENTE) values 
+                     ('Factura: Diccionario español', 25.00, date('now'), '00000001R');                     
+INSERT INTO FACTURAS (DESCRIPCION, IMPORTE, FECHA, DNI_CLIENTE) values 
+                     ('Factura: Guantes y balon', 250.50, date('now'), '00000002W');
+                     
+UPDATE FACTURAS 
+SET DESCRIPCION = 'Factura: Libro El maravilloso arte del insulto', IMPORTE = 101.00 
+WHERE ID_FACTURAS = 1;
+                     
+INSERT INTO PRODUCTOS (DESCRIPCION, IMPORTE) values 
+                     ('Libro el maravilloso arte del insulto', 100);
+INSERT INTO PRODUCTOS (DESCRIPCION, IMPORTE) values 
+                     ('Diccionario español/frances', 50);
+INSERT INTO PRODUCTOS (DESCRIPCION, IMPORTE) values 
+                     ('Diccionario español', 25);                     
+INSERT INTO PRODUCTOS (DESCRIPCION, IMPORTE) values 
+                     ('Guantes', 100.50);
+INSERT INTO PRODUCTOS (DESCRIPCION, IMPORTE) values 
+                     ('Balon', 150.00);
+                     
+INSERT INTO FACTURAS_PRODUCTOS(ID_FACTURAS, ID_PRODUCTOS) values (1,1);
+INSERT INTO FACTURAS_PRODUCTOS(ID_FACTURAS, ID_PRODUCTOS) values (2,2);
+INSERT INTO FACTURAS_PRODUCTOS(ID_FACTURAS, ID_PRODUCTOS) values (3,3);
+INSERT INTO FACTURAS_PRODUCTOS(ID_FACTURAS, ID_PRODUCTOS) values (4,4);
+INSERT INTO FACTURAS_PRODUCTOS(ID_FACTURAS, ID_PRODUCTOS) values (4,5);
+
+SELECT * FROM clientes;
+SELECT * FROM facturas;
+SELECT * FROM productos;
+SELECT * FROM FACTURAS_PRODUCTOS as f;
+
+SELECT c.nombre, f.descripcion 
+FROM clientes c INNER JOIN facturas f ON c.DNI = f.DNI_cliente;
+
+SELECT f.descripcion, p.descripcion, p.importe
+FROM facturas f INNER JOIN
+     FACTURAS_PRODUCTOS fp ON f.ID_FACTURAS = fp.ID_FACTURAS INNER JOIN 
+     productos p ON p.ID_PRODUCTOS = fp.ID_PRODUCTOS;
+
+
+--delete from clientes where name = 'tu mismo'
+--DROP TABLE CLIENTES

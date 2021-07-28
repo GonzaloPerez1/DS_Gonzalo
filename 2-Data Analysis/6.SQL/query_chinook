@@ -1,0 +1,113 @@
+--Muestra los clientes de Brasil
+SELECT *
+FROM CUSTOMERS
+WHERE COUNTRY = 'Brazil';
+
+--Muestrame los empleados que son agentes de ventas*
+SELECT * FROM EMPLOYEES;
+SELECT * FROM EMPLOYEES
+WHERE TITLE = 'Sales Support Agent';
+
+--Muestrame los albumes de ‘AC/DC’
+SELECT * FROM ALBUMS;
+SELECT * FROM ARTISTS;
+
+SELECT AL.TITLE
+FROM ALBUMS AL OUTER JOIN
+ARTISTS AR ON AL.ARTISTID = AR.ARTISTID
+WHERE AR.NAME = 'AC/DC';
+
+--Muestra los clientes que no sean de USA: Nombre completo, ID, Pais*
+SELECT FIRSTNAME || ' ' || LASTNAME AS FULL_NAME, CUSTOMERID, COUNTRY
+FROM CUSTOMERS
+WHERE COUNTRY <> 'USA';
+
+--Muestrame los empleados que son agentes de ventas: Nombre completo, Dirección
+--(Ciudad, Estado, Pais) y email
+SELECT * FROM EMPLOYEES;
+SELECT FIRSTNAME || ' ' || LASTNAME, CITY || ', ' || STATE || ', ' || COUNTRY AS ADDRESS, EMAIL
+FROM EMPLOYEES
+WHERE TITLE = 'Sales Support Agent';
+
+--Muestra una lista con los paises que aparecen a los que se ha facturado, la lista no
+--debe contener paises repetidos*
+SELECT * FROM INVOICES;
+SELECT DISTINCT BILLINGCOUNTRY
+FROM INVOICES;
+
+--Muestra una lista con los estados de USA de donde son los clientes, la lista no debe
+--contener estados repetidos
+SELECT * FROM CUSTOMERS;
+
+SELECT DISTINCT STATE
+FROM CUSTOMERS
+WHERE COUNTRY = 'USA';
+
+--Cuantos articulos tiene la factura 37*
+SELECT * FROM INVOICE_ITEMS;
+
+SELECT INVOICEID, COUNT(INVOICELINEID)
+FROM INVOICE_ITEMS
+WHERE INVOICEID = 37
+GROUP BY INVOICEID;
+
+SELECT INVOICEID, SUM(QUANTITY)
+FROM INVOICE_ITEMS
+WHERE INVOICEID = 37
+GROUP BY INVOICEID;
+
+--Cuantas canciones tiene ‘AC/DC’
+SELECT * FROM TRACKS; --COMPOSER
+SELECT * FROM ARTISTS; --NAME
+
+SELECT T.NAME
+FROM TRACKS T INNER JOIN
+ARTISTS A ON T.COMPOSER = A.NAME
+WHERE A.NAME = 'AC/DC';
+
+-- Cuantos articulos tiene cada factura*
+SELECT *
+FROM INVOICE_ITEMS;
+
+SELECT INVOICEID, SUM(QUANTITY)
+FROM INVOICE_ITEMS
+GROUP BY INVOICEID;
+
+--Muestrame cuantos facturas hay de cada pais
+SELECT BILLINGCOUNTRY, COUNT(BILLINGCOUNTRY)
+FROM INVOICES
+GROUP BY BILLINGCOUNTRY;
+
+-- Cuantas facturas ha habido en 2009 y 2011*
+SELECT * FROM INVOICES;
+
+SELECT COUNT(INVOICEID)
+FROM INVOICES
+WHERE INVOICEDATE LIKE '%2009%' OR
+INVOICEDATE LIKE '%2011%';
+
+SELECT STRFTIME('%Y', INVOICEDATE) AS ANIO, COUNT(*)
+FROM INVOICES
+WHERE ANIO = '2009' OR ANIO = '2011'
+GROUP BY ANIO;
+
+-- Cuantas facturas ha habido entre 2009 y 2011*
+SELECT STRFTIME('%Y', INVOICEDATE) AS ANIO, COUNT(*)
+FROM INVOICES
+WHERE ANIO BETWEEN '2009' AND '2011'
+GROUP BY ANIO;
+
+--Cuantos clientes hay de españa y de Brazil
+SELECT * FROM CUSTOMERS;
+
+SELECT COUNTRY, COUNT(CUSTOMERID)
+FROM CUSTOMERS
+WHERE COUNTRY = 'Brazil' OR COUNTRY = 'Spain'
+GROUP BY COUNTRY;
+
+--Muestrame las canciones que su titulo empieza por ‘You’
+SELECT * FROM TRACKS;
+
+SELECT NAME
+FROM TRACKS
+WHERE NAME LIKE 'You%';
