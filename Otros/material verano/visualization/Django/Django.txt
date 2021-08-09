@@ -1,0 +1,9 @@
+Libros Oreilly
+https://learning.oreilly.com/library/view/django-3-by/9781838981952/
+https://learning.oreilly.com/library/view/web-development-with/9781839212505/
+
+Artículos Medium
+https://medium.com/swlh/build-your-own-blog-with-django-part-1-e5715b7cd9bc
+
+Documentación Django
+https://buildmedia.readthedocs.org/media/pdf/django/latest/django.pdf

@@ -1,0 +1,24 @@
+Material mates para data science
+Artículo con cursos gratuitos para aprender los basics de mates para data science: https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568
+Playlist Mates para Data Science: https://learning.oreilly.com/playlists/03576629-4091-4c66-b7f1-5eb72bdabfe9/
+Artículos super completos en castellano: https://www.cienciadedatos.net/machine-learning-python.html
+Curso online gratuito algebra lineal: http://immersivemath.com/ila/index.html
+
+Material Machine Learning
+Hands On Machine Learning: https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
+Apuntes ML en castellano: https://www.cienciadedatos.net/machine-learning-python.html
+Mas apuntes en castellano: https://github.com/CristinaGil/Ciencia-de-Datos-R
+Infinidad de notebooks resueltos en Kaggle: https://www.kaggle.com/
+Curso gratuito de Deep Learning: https://atcold.github.io/pytorch-Deep-Learning/
+Curso de Andrew Ng: https://www.coursera.org/specializations/deep-learning#courses
+Glosario de términos: https://developers.google.com/machine-learning/glossary
+
+
+NLP: http://www.nltk.org/book/
+Hands on Time Series: https://learning.oreilly.com/library/view/hands-on-time-series/9781484259924/
+Time Series con otros modelos: https://learning.oreilly.com/videos/time-series-analysis/9781838640590/?autoplay=false
+Playlist Feature Engineering: https://learning.oreilly.com/playlists/ff8472f4-f4c5-4ac4-90f2-414370bbc8f1/
+
+
+
+

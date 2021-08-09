@@ -1,0 +1,4 @@
+Curso de verano en HackerRank: www.hackerrank.com/sql-verano
+Sololearn, página tipo Duolingo: https://www.sololearn.com/learning/1060
+Página friendly de ejercicios: https://sqlzoo.net
+Página de ejercicios SQL: https://www.w3resource.com/sql-exercises/

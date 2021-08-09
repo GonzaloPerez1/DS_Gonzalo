@@ -1,0 +1,23 @@
+Trabajo sobre proyectos previos
+1. Documentar bien el EDA para poder publicarlo.
+2. Montar un Streamlit con el EDA u otro tema que interese.
+4. Libreria de funciones. Notebooks resumen de pandas, numpy y visualización
+
+
+SQL
+1. Curso de verano en HackerRank: www.hackerrank.com/sql-verano
+2. SQL: ejercicios extra de SQL
+
+
+Data Analysis
+1. Visualización
+	1.1 Ejercicios Matplotlib & Seaborn
+	1.2 Dash: librería de Plotly para montar dashboards interactivos
+	1.3 Django: framework de Python para montar páginas web
+2. Libros y docu extra de O'reilly para Data Analysis
+3. Ejercicios de EDAs
+
+
+Machine Learning
+1. Mates para data science
+3. Libros y cursos de Machine Learning
