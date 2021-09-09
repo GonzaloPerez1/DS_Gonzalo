@@ -9,7 +9,6 @@ import pandas as pd
 from info import CSV_ROUTE
 from aux_functions import conversion_target
 from sklearn.model_selection import train_test_split
-from sklearn.feature_extraction.text import CountVectorizer
 
 def descargar_dataset():
     dataset = pd.read_csv(CSV_ROUTE, encoding= 'latin-1')

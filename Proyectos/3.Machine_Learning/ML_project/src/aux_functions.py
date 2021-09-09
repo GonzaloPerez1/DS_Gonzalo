@@ -1,5 +1,5 @@
 '''
-En este script encotraremos las funciones auxiliares utilizadsa como propósito general
+En este script encotraremos las funciones auxiliares utilizadas para propósitos generales
 '''
 
 def conversion_target(valor):

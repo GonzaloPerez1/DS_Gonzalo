@@ -4,6 +4,17 @@ Para iniciar la descarga de los datos y el entrenamiento del modelo ejecutar en 
 `python main.py`
 '''
 
-import model
+import Naive_Bayes
+import ann
 
-model.main()
+nb_auc, nb_train_score, nb_test_score = Naive_Bayes.main()
+accuracy = ann.main()
+
+print('\nNAIVE-BAYES')
+print('==========================================')
+print('AUC:',nb_auc )
+print('Train Score:', nb_train_score)
+print('Test Score:', nb_test_score)
+print('\nARTIFICIAL NEURAL NETWORK')
+print('==========================================')
+print('Test Score:', accuracy)
