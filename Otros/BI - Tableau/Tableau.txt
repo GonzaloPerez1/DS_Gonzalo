@@ -1,0 +1,30 @@
+Tableau
+
+1) descarga tableau desktop public (es gratuito):
+
+https://public.tableau.com/es-es/s/download
+
+
+
+2) Referencia:
+https://www.analyticsvidhya.com/blog/2017/07/data-visualisation-made-easy/
+
+Vamos a ver en clase qué pasos seguir para construir un dashboard con Tableau.
+
+
+3)Para ver el potencial de Tableau, ¡mira qué dashboards más chulos se pueden hacer!
+
+
+https://public.tableau.com/app/profile/ali15tehrani/viz/Nutella_16154780007640/nutella
+
+https://public.tableau.com/app/profile/ali15tehrani/viz/MyNetflixViewingActivityFrom2016-2021/Netflix
+
+https://public.tableau.com/app/profile/ali15tehrani/viz/ChristopherNolanMovies/Dashboard1
+
+https://public.tableau.com/app/profile/ryansoares/viz/GoogleSearchTrendsMostSuccessfulSongsof2020/Dashboard
+
+https://public.tableau.com/app/profile/fred6420/viz/TheColoursofLEGO/TheColoursofLego
+
+https://public.tableau.com/app/profile/sparsonsdataviz/viz/RiversofTimeMarvelStudiosMCUIronviz2021/RiversofTime
+
+4) Tras lo practicado en clase usa tus datos de tu proyecto EDA para crear un dashboard con Tableau.

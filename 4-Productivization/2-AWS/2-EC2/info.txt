@@ -1,0 +1,34 @@
+Tras crear la cuenta con una tarjeta bancaria:
+
+1. Ir a preferencias
+2. Ir a perferencias de facturación
+3. activar:
+	3.1 Recibir alertas de uso de nivel gratuito
+	3.2 Reciba alertas de facturación
+
+4. Ir a budgets
+	4.1 Crear presupuestos
+	4.2 Primera opción
+	4.3 Mensual
+	4.4 Recurrente
+	4.5 Fijo
+	4.6 Importe presupuestado, que avise cuando se pase
+	4.7 Elegir nombre del presupuesto
+	
+5. Salir de modo root y entrar en modo AM (usuario)
+6. Crearemos una nueva instancia
+	6.1 Escoger sistema Linux con capa gratuita
+	6.2 Continuar con el mensaje de "Apto para la capa gratuita"
+	6.3 Continuamos hacia delante a través del botón "siguiente"
+	6.4 En la parte de "Security Groups"
+		6.4.1 Configuramos las reglas de seguridad
+		6.4.2 Configuramos tipo ssh y TCP
+		6.4.3 Tras esto lanzamos la instancia.
+		
+7. Crear un nuevo par de claves, tipo RSA
+	7.1 Se descargará un .pem
+	
+8. Servicios -> EC2 -> Instancias
+
+IMPORTANTE:
+	SIEMPRE DETENER LA INSTANCIA O TE COBRAN.

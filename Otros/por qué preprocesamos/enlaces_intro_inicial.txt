@@ -1,0 +1,11 @@
+Crear un histograma:
+https://online.visual-paradigm.com/es/diagrams/features/chart-maker/histogram-maker/
+
+Calcular desviación típica:
+https://www.mathsisfun.com/data/standard-deviation-calculator.html
+
+Escala logarítmica:
+http://onlinestatbook.com/2/transformations/log.html
+
+Gaussiano:
+https://scikit-learn.org/stable/auto_examples/preprocessing/plot_map_data_to_normal.html
